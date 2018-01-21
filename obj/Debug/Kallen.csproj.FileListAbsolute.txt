@@ -1,0 +1,58 @@
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Kallen.exe.config
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Kallen.exe
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Kallen.pdb
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Commands.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Core.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Rest.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Rpc.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Webhook.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.WebSocket.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Newtonsoft.Json.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\System.Collections.Immutable.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\System.Interactive.Async.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Commands.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Core.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Rest.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Rpc.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.Webhook.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Discord.Net.WebSocket.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\Newtonsoft.Json.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\System.Collections.Immutable.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\bin\Debug\System.Interactive.Async.xml
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\obj\Debug\Kallen.csprojResolveAssemblyReference.cache
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\obj\Debug\Kallen.exe
+c:\users\xrays\documents\visual studio 2015\Projects\Kallen\Kallen\obj\Debug\Kallen.pdb
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Kallen.exe.config
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\obj\Debug\Kallen.exe
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\obj\Debug\Kallen.pdb
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Kallen.exe
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Kallen.pdb
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Commands.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Core.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Rest.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\System.Collections.Immutable.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\System.Interactive.Async.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Commands.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Core.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Rest.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\System.Collections.Immutable.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\bin\Debug\System.Interactive.Async.xml
+C:\Users\xrays\Documents\GitHub\Kallen\Kallen\obj\Debug\Kallen.csprojResolveAssemblyReference.cache
